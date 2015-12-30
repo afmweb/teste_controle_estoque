@@ -10,5 +10,13 @@ Ferramentas:
 
 CodeIgniter / Bootstrap
 
-Visualizar `installation section <http://andremarcelino.com.br/demos/php/ctrestoque1/>`_
+************
+Online
+************
+
+Please see the `installation section <http://www.codeigniter.com/user_guide/installation/index.html>`_
 of the CodeIgniter User Guide.
+
+*******
+License
+*******
