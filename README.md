@@ -10,13 +10,4 @@ Ferramentas:
 
 CodeIgniter / Bootstrap
 
-************
-Online
-************
 
-Please see the `installation section <http://www.codeigniter.com/user_guide/installation/index.html>`_
-of the CodeIgniter User Guide.
-
-*******
-License
-*******
